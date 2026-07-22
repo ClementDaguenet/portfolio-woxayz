@@ -1,0 +1,106 @@
+﻿{
+  "nav": {
+    "home": "Home",
+    "creations": "Creations",
+    "pricing": "Pricing",
+    "art": "Gallery",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "home": {
+    "subtitle": "Minecraft Creator · Resource Packs · Mods · Modpacks",
+    "cta": "See creations"
+  },
+  "creations": {
+    "title": "Creations",
+    "subtitle": "Mods, resource packs and modpacks published on CurseForge.",
+    "tabs": {
+      "all": "All",
+      "resource-pack": "Resource Packs",
+      "mod": "Mods",
+      "modpack": "Modpacks"
+    },
+    "downloads": "downloads",
+    "viewOnCurseforge": "View on CurseForge",
+    "mcVersions": "MC versions",
+    "types": {
+      "mod": "Mod",
+      "resource-pack": "Resource pack",
+      "modpack": "Modpack"
+    },
+    "roles": {
+      "owner": "Owner",
+      "artist": "Artist",
+      "contributor": "Contributor"
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Textures, mods, modpacks or resource packs - tell me about your project.",
+    "name": "Name",
+    "email": "Email",
+    "requestType": "Request type",
+    "requestTypePlaceholder": "Choose…",
+    "requestTypes": {
+      "textures": "Textures / art",
+      "mod": "Mod creation",
+      "modpack": "Modpack creation",
+      "resource-pack": "Resource pack creation",
+      "other": "Other"
+    },
+    "subject": "Subject",
+    "message": "Message",
+    "submit": "Send",
+    "sending": "Sending…",
+    "success": "Message sent. Thank you!",
+    "error": "Something went wrong. Try again or email contact@woxayz.fr.",
+    "namePlaceholder": "Your name",
+    "emailPlaceholder": "you@example.com",
+    "subjectPlaceholder": "What is this about?",
+    "messagePlaceholder": "Project details, MC versions, deadline…"
+  },
+  "pricing": {
+    "title": "Pricing",
+    "subtitle": "Custom texture commissions.",
+    "license": "License",
+    "donate": "Support",
+    "paypal": "PayPal",
+    "patreon": "Patreon",
+    "category": "Category",
+    "price": "Price"
+  },
+  "art": {
+    "title": "Gallery",
+    "subtitle": "Textures, blocks, GUI and more.",
+    "close": "Close"
+  },
+  "about": {
+    "title": "About"
+  },
+  "legal": {
+    "title": "Legal notice"
+  },
+  "footer": {
+    "discord": "Discord",
+    "twitch": "Twitch",
+    "twitchNote": "viewer only",
+    "contact": "Contact",
+    "contactLink": "Form",
+    "mirror": "Professional site",
+    "rights": "All rights reserved."
+  },
+  "language": {
+    "label": "Language",
+    "fr": "FR",
+    "en": "EN"
+  },
+  "switch": {
+    "toPro": "Go to Pro portfolio",
+    "pro": "PRO",
+    "gaming": "GAMING"
+  },
+  "notFound": {
+    "message": "Oops, this block doesn't exist!",
+    "back": "Back home"
+  }
+}

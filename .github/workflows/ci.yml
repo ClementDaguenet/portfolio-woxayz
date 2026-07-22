@@ -1,0 +1,28 @@
+﻿name: CI
+
+on:
+  push:
+    branches: [master, main]
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: npm
+      - run: npm ci
+      - run: npm run lint
+      - run: npm run build
+        env:
+          NEXT_PUBLIC_SITE_URL: https://woxayz.fr
+          NEXT_PUBLIC_PRO_URL: https://clement-daguenet.fr
+          NEXT_PUBLIC_GAMING_URL: https://woxayz.fr
+          CURSEFORGE_API_KEY: ""
+          RESEND_API_KEY: ""
+          ADMIN_PASSWORD: ci-admin
+          CONTACT_TO_EMAIL: contact@woxayz.fr
+          CONTACT_FROM_EMAIL: contact@clement-daguenet.fr

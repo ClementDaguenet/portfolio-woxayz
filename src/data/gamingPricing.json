@@ -1,0 +1,44 @@
+{
+  "items": [
+    {
+      "id": "item",
+      "labelFr": "Item",
+      "labelEn": "Item",
+      "price": 0.5
+    },
+    {
+      "id": "block",
+      "labelFr": "Block",
+      "labelEn": "Block",
+      "price": 0.75
+    },
+    {
+      "id": "animated-special-armor",
+      "labelFr": "Animé / Spécial / Armure",
+      "labelEn": "Animated / Special / Armor",
+      "price": 2.0
+    },
+    {
+      "id": "mob-effect",
+      "labelFr": "Effet de mob",
+      "labelEn": "Mob effect",
+      "price": 0.5
+    },
+    {
+      "id": "gui",
+      "labelFr": "GUI",
+      "labelEn": "GUI",
+      "price": 2.0
+    },
+    {
+      "id": "gui-sprite",
+      "labelFr": "GUI Sprite",
+      "labelEn": "GUI Sprite",
+      "price": 1.0
+    }
+  ],
+  "licenseFr": "Les textures commandées sont livrées pour usage personnel ou projet désigné. Redistribution, revente ou inclusion dans un pack commercial sans accord écrit est interdite. Une licence étendue peut être négociée.",
+  "licenseEn": "Commissioned textures are delivered for personal use or a designated project. Redistribution, resale, or inclusion in a commercial pack without written agreement is prohibited. An extended license can be negotiated.",
+  "paypal": "https://paypal.me/woxayz",
+  "patreon": "https://patreon.com/WoXayZ?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink"
+}

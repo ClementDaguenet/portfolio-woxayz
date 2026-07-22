@@ -1,0 +1,40 @@
+{
+  "textures": [
+    {
+      "id": "tex-1",
+      "title": "1",
+      "category": "Item",
+      "image": "/images/gaming/textures/tex-1.svg"
+    },
+    {
+      "id": "tex-2",
+      "title": "2",
+      "category": "Block",
+      "image": "/images/gaming/textures/tex-2.svg"
+    },
+    {
+      "id": "tex-3",
+      "title": "3",
+      "category": "GUI",
+      "image": "/images/gaming/textures/tex-3.svg"
+    },
+    {
+      "id": "tex-4",
+      "title": "4",
+      "category": "Item",
+      "image": "/images/gaming/textures/tex-4.svg"
+    },
+    {
+      "id": "tex-5",
+      "title": "5",
+      "category": "Block",
+      "image": "/images/gaming/textures/tex-5.svg"
+    },
+    {
+      "id": "tex-6",
+      "title": "6",
+      "category": "Other",
+      "image": "/images/gaming/textures/tex-6.svg"
+    }
+  ]
+}

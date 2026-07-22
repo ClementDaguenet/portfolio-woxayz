@@ -1,0 +1,284 @@
+{
+  "creations": [
+    {
+      "id": "create-qol",
+      "name": "Create: Quality Of Life",
+      "type": "mod",
+      "mcVersions": [
+        "1.21.1",
+        "1.20.1",
+        "1.19.2",
+        "1.18.2"
+      ],
+      "releaseDate": "2024-01-14",
+      "downloads": 998068,
+      "curseforgeUrl": "https://www.curseforge.com/minecraft/mc-mods/create-qol",
+      "image": "https://media.forgecdn.net/avatars/thumbnails/1919/715/256/256/639196427027964771.png",
+      "summaryFr": "Adds quality of life things for Create Mod",
+      "summaryEn": "Adds quality of life things for Create Mod",
+      "curseforgeId": 905508,
+      "role": "contributor"
+    },
+    {
+      "id": "evolved-mekanism",
+      "name": "Evolved Mekanism",
+      "type": "mod",
+      "mcVersions": [
+        "1.21.1",
+        "1.20.1"
+      ],
+      "releaseDate": "2025-03-29",
+      "downloads": 699011,
+      "curseforgeUrl": "https://www.curseforge.com/minecraft/mc-mods/evolved-mekanism",
+      "image": "https://media.forgecdn.net/avatars/thumbnails/1273/249/256/256/638828304188825135_animated.gif",
+      "summaryFr": "Evolved Mekanism enhances Mekanism with new machine tiers and additional content",
+      "summaryEn": "Evolved Mekanism enhances Mekanism with new machine tiers and additional content",
+      "curseforgeId": 1230085,
+      "role": "contributor"
+    },
+    {
+      "id": "excessive-utilities",
+      "name": "Excessive Utilities",
+      "type": "mod",
+      "mcVersions": [
+        "1.21.1"
+      ],
+      "releaseDate": "2026-03-31",
+      "downloads": 36553,
+      "curseforgeUrl": "https://www.curseforge.com/minecraft/mc-mods/excessive-utilities",
+      "image": "https://media.forgecdn.net/avatars/thumbnails/1736/359/256/256/639105278335169229.png",
+      "summaryFr": "A modern remake of Extra Utilities 1 and 2!",
+      "summaryEn": "A modern remake of Extra Utilities 1 and 2!",
+      "curseforgeId": 1482270,
+      "role": "artist"
+    },
+    {
+      "id": "re-botania-pack",
+      "name": "Re: Botania Pack",
+      "type": "resource-pack",
+      "mcVersions": [
+        "1.20.1",
+        "1.20"
+      ],
+      "releaseDate": "2025-04-09",
+      "downloads": 8275,
+      "curseforgeUrl": "https://www.curseforge.com/minecraft/texture-packs/re-botania-pack",
+      "image": "https://media.forgecdn.net/avatars/thumbnails/1217/782/256/256/638796659640806928.png",
+      "summaryFr": "Update Dreamwood and Quartz Textures of Botania for more logic !",
+      "summaryEn": "Update Dreamwood and Quartz Textures of Botania for more logic !",
+      "curseforgeId": 1238014,
+      "role": "owner"
+    },
+    {
+      "id": "ftb-industrial-colorations",
+      "name": "FTB Industrial Colorations",
+      "type": "mod",
+      "mcVersions": [
+        "1.18.2"
+      ],
+      "releaseDate": "2026-05-22",
+      "downloads": 3501,
+      "curseforgeUrl": "https://www.curseforge.com/minecraft/mc-mods/ftb-industrial-colorations",
+      "image": "https://media.forgecdn.net/avatars/thumbnails/1819/736/256/256/639149831047781093_animated.gif",
+      "summaryFr": "Extends FTB Industrial Contraptions spray paint cans to all 16 Minecraft dye colors !",
+      "summaryEn": "Extends FTB Industrial Contraptions spray paint cans to all 16 Minecraft dye colors !",
+      "curseforgeId": 1549815,
+      "role": "owner"
+    },
+    {
+      "id": "purple-core",
+      "name": "Purple Core",
+      "type": "modpack",
+      "mcVersions": [
+        "1.16.5"
+      ],
+      "releaseDate": "2022-01-05",
+      "downloads": 1452,
+      "curseforgeUrl": "https://www.curseforge.com/minecraft/modpacks/purple-core",
+      "image": "https://media.forgecdn.net/avatars/thumbnails/475/813/256/256/637768289005039626.png",
+      "summaryFr": "A tech 1.16.5 modpack in Skyblock version !",
+      "summaryEn": "A tech 1.16.5 modpack in Skyblock version !",
+      "curseforgeId": 564042,
+      "role": "owner"
+    },
+    {
+      "id": "re-croptopia-pack",
+      "name": "Re: Croptopia Pack",
+      "type": "resource-pack",
+      "mcVersions": [
+        "1.20.1",
+        "1.20"
+      ],
+      "releaseDate": "2025-04-09",
+      "downloads": 1431,
+      "curseforgeUrl": "https://www.curseforge.com/minecraft/texture-packs/re-croptopia-pack",
+      "image": "https://media.forgecdn.net/avatars/thumbnails/1217/756/256/256/638796631817359928.png",
+      "summaryFr": "Update Saplings and Seeds Textures of Croptopia for more logic !",
+      "summaryEn": "Update Saplings and Seeds Textures of Croptopia for more logic !",
+      "curseforgeId": 1237982,
+      "role": "owner"
+    },
+    {
+      "id": "auxilia-utilities",
+      "name": "Auxilia Utilities",
+      "type": "mod",
+      "mcVersions": [
+        "1.21.1"
+      ],
+      "releaseDate": "2026-04-18",
+      "downloads": 798,
+      "curseforgeUrl": "https://www.curseforge.com/minecraft/mc-mods/auxilia-utilities",
+      "image": "https://media.forgecdn.net/avatars/thumbnails/1758/889/256/256/639118877767322913.png",
+      "summaryFr": "Just a bunch of useful things from Extra Utilities 1/2 but in newer versions !",
+      "summaryEn": "Just a bunch of useful things from Extra Utilities 1/2 but in newer versions !",
+      "curseforgeId": 1491519,
+      "role": "contributor"
+    },
+    {
+      "id": "penchant-reforged",
+      "name": "Penchant Reforged",
+      "type": "mod",
+      "mcVersions": [
+        "1.21.11",
+        "1.21.10",
+        "1.21.9",
+        "1.21.8",
+        "1.21.7",
+        "1.21.6",
+        "1.21.5",
+        "1.21.4",
+        "1.21.3",
+        "1.21.2",
+        "1.21.1"
+      ],
+      "releaseDate": "2026-07-09",
+      "downloads": 716,
+      "curseforgeUrl": "https://www.curseforge.com/minecraft/mc-mods/penchant-reforged",
+      "image": "https://media.forgecdn.net/avatars/thumbnails/1908/205/256/256/639191187661734484.png",
+      "summaryFr": "Rework enchanting around leveling up enchantments through usage. Unofficial NeoForge port of Penchant by ThePotatoArchivist.",
+      "summaryEn": "Rework enchanting around leveling up enchantments through usage. Unofficial NeoForge port of Penchant by ThePotatoArchivist.",
+      "curseforgeId": 1602528,
+      "role": "owner"
+    },
+    {
+      "id": "actually-multiplications",
+      "name": "Actually Multiplications",
+      "type": "mod",
+      "mcVersions": [
+        "1.21.1"
+      ],
+      "releaseDate": "2026-04-09",
+      "downloads": 343,
+      "curseforgeUrl": "https://www.curseforge.com/minecraft/mc-mods/actually-multiplications",
+      "image": "https://media.forgecdn.net/avatars/thumbnails/1748/104/256/256/639112459991904677.png",
+      "summaryFr": "Actually Multiplications is a compact addon for Actually mods designed to bridge the gap by adding the armor sets and tools that were \"missing\" from the original material tiers",
+      "summaryEn": "Actually Multiplications is a compact addon for Actually mods designed to bridge the gap by adding the armor sets and tools that were \"missing\" from the original material tiers",
+      "curseforgeId": 1508171,
+      "role": "owner"
+    },
+    {
+      "id": "re-natures-aura-pack",
+      "name": "Re: Nature's Aura Pack",
+      "type": "resource-pack",
+      "mcVersions": [
+        "1.20.1",
+        "1.20"
+      ],
+      "releaseDate": "2025-09-04",
+      "downloads": 343,
+      "curseforgeUrl": "https://www.curseforge.com/minecraft/texture-packs/re-natures-aura-pack",
+      "image": "https://media.forgecdn.net/avatars/thumbnails/1429/94/256/256/638925894511272258.png",
+      "summaryFr": "Update Ingots/Blocks and Tokens Textures of Nature's Aura for more beauty !",
+      "summaryEn": "Update Ingots/Blocks and Tokens Textures of Nature's Aura for more beauty !",
+      "curseforgeId": 1340957,
+      "role": "owner"
+    },
+    {
+      "id": "mechanical-exploration",
+      "name": "Mechanical Exploration",
+      "type": "modpack",
+      "mcVersions": [
+        "1.20.1"
+      ],
+      "releaseDate": "2025-04-16",
+      "downloads": 340,
+      "curseforgeUrl": "https://www.curseforge.com/minecraft/modpacks/mechanical-exploration",
+      "image": "https://media.forgecdn.net/avatars/thumbnails/1225/468/256/256/638803256504775145.png",
+      "summaryFr": "A little modpack about exploration and mechanics !",
+      "summaryEn": "A little modpack about exploration and mechanics !",
+      "curseforgeId": 1243729,
+      "role": "owner"
+    },
+    {
+      "id": "create-tech-sandbox",
+      "name": "Create - Tech Sandbox",
+      "type": "modpack",
+      "mcVersions": [
+        "1.21.1"
+      ],
+      "releaseDate": "2026-01-29",
+      "downloads": 293,
+      "curseforgeUrl": "https://www.curseforge.com/minecraft/modpacks/tech-sandbox",
+      "image": "https://media.forgecdn.net/avatars/thumbnails/1648/160/256/256/639052099853882008.png",
+      "summaryFr": "Step into Tech Sandbox, a fully modded Minecraft sandbox designed for players new to modded gamepla",
+      "summaryEn": "Step into Tech Sandbox, a fully modded Minecraft sandbox designed for players new to modded gamepla",
+      "curseforgeId": 1447364,
+      "role": "owner"
+    },
+    {
+      "id": "extend-jei-pack",
+      "name": "Extend: JEI Pack",
+      "type": "resource-pack",
+      "mcVersions": [
+        "1.20.1",
+        "1.20"
+      ],
+      "releaseDate": "2025-08-06",
+      "downloads": 259,
+      "curseforgeUrl": "https://www.curseforge.com/minecraft/texture-packs/extend-jei-pack",
+      "image": "https://media.forgecdn.net/avatars/thumbnails/1388/541/256/256/638900265152274990.png",
+      "summaryFr": "Extend: JEI Pack is a resource pack that improves the textures for the Just Enough Items mod. This resource pack increases the texture expansion to 32x32.",
+      "summaryEn": "Extend: JEI Pack is a resource pack that improves the textures for the Just Enough Items mod. This resource pack increases the texture expansion to 32x32.",
+      "curseforgeId": 1321597,
+      "role": "owner"
+    },
+    {
+      "id": "darker-laserio-pack",
+      "name": "Darker: LaserIO Pack",
+      "type": "resource-pack",
+      "mcVersions": [
+        "1.21.3",
+        "1.21.2",
+        "1.21.1",
+        "1.21",
+        "1.20.1",
+        "1.20"
+      ],
+      "releaseDate": "2025-04-09",
+      "downloads": 198,
+      "curseforgeUrl": "https://www.curseforge.com/minecraft/texture-packs/darker-laserio",
+      "image": "https://media.forgecdn.net/avatars/thumbnails/1217/794/256/256/638796670639651328.png",
+      "summaryFr": "Update LaserIO Textures to make it Darker and Better !",
+      "summaryEn": "Update LaserIO Textures to make it Darker and Better !",
+      "curseforgeId": 1238026,
+      "role": "owner"
+    },
+    {
+      "id": "re-solar-flux-reborn-pack",
+      "name": "Re: Solar Flux Reborn Pack",
+      "type": "resource-pack",
+      "mcVersions": [
+        "1.20.1",
+        "1.20"
+      ],
+      "releaseDate": "2025-09-04",
+      "downloads": 192,
+      "curseforgeUrl": "https://www.curseforge.com/minecraft/texture-packs/re-solar-flux-reborn-pack",
+      "image": "https://media.forgecdn.net/avatars/thumbnails/1429/127/256/256/638925910138881117.png",
+      "summaryFr": "Update Solar Panels/Cells and Upgrades of Solar Flux Reborn for more beauty !",
+      "summaryEn": "Update Solar Panels/Cells and Upgrades of Solar Flux Reborn for more beauty !",
+      "curseforgeId": 1340971,
+      "role": "owner"
+    }
+  ]
+}
